@@ -1,0 +1,22 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {/*
+    background-image: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/78271814_10158186935644050_319403850081501184_o.jpg?_nc_cat=105&_nc_sid=2d5d41&_nc_oc=AQkwoxh_H7Pr5VfBZq8zk2UWFDWCun-m-1wQ0m3921G7w5PXzSJFUnaE5XM0L4QpVGS1gAroefo5q0Aazya_EkxU&_nc_ht=scontent-iad3-1.xx&oh=49483f56aad3d8d989aa7c0620c22938&oe=5F06C988");
+    background-repeat:no-repeat;
+    background-position-y: center;
+    background-size:100%;
+    */
+    background-color:#e1cebf;
+}
+.centeredText{text-align:center;}
+.centeredImage{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+#caption1{
+    margin-right:25%;
+    float:right;}
+li{font-style: italic;}
